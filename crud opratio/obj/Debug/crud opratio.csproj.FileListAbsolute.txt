@@ -1,0 +1,9 @@
+c:\users\ajay\documents\visual studio 2015\Projects\crud opratio\crud opratio\bin\Debug\crud opratio.exe.config
+c:\users\ajay\documents\visual studio 2015\Projects\crud opratio\crud opratio\bin\Debug\crud opratio.exe
+c:\users\ajay\documents\visual studio 2015\Projects\crud opratio\crud opratio\bin\Debug\crud opratio.pdb
+c:\users\ajay\documents\visual studio 2015\Projects\crud opratio\crud opratio\obj\Debug\crud opratio.csprojResolveAssemblyReference.cache
+c:\users\ajay\documents\visual studio 2015\Projects\crud opratio\crud opratio\obj\Debug\crud_opratio.Form1.resources
+c:\users\ajay\documents\visual studio 2015\Projects\crud opratio\crud opratio\obj\Debug\crud_opratio.Properties.Resources.resources
+c:\users\ajay\documents\visual studio 2015\Projects\crud opratio\crud opratio\obj\Debug\crud opratio.csproj.GenerateResource.Cache
+c:\users\ajay\documents\visual studio 2015\Projects\crud opratio\crud opratio\obj\Debug\crud opratio.exe
+c:\users\ajay\documents\visual studio 2015\Projects\crud opratio\crud opratio\obj\Debug\crud opratio.pdb
